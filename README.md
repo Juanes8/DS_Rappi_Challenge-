@@ -34,7 +34,7 @@ python model.py
 
 The prediction will be display through ```https://localhost:8080/predict```.
 
-The packages used for this challenge can be found in [requirements.txt](https://github.com/Juanes8/Juanes8/DS_Rappi_Challenge-/blob/main/requirements.txt)
+The packages used for this challenge can be found in [requirements.txt](https://github.com/Juanes8/DS_Rappi_Challenge-/blob/main/requirements.txt)
 
 This is the structure of this repo 
 ```
